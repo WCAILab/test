@@ -1,5 +1,6 @@
+Hello Git! zhouzhuo
 # 程序标题
-1. 张三的第一个工作的论文代码/仿真代码, 对应论文xxxx. 
+Hello World! by ZZ 
 2. 联系方式: 18888888888 yourname@example.com
 
 ##  编译方法
