@@ -1,6 +1,6 @@
-Hello Git!
+Hello Git!  合并版本
 # 程序标题
-Hello world!
+
 2. 联系方式: 18888888888 yourname@example.com
 
 ##  编译方法
